@@ -32,11 +32,11 @@ This project follows all given constraints and does not use any image processing
    python SubashCHBosh.py
 
 
-👨‍🎓 Author
-
-Om Pandey
-Computer Science Student
+## 👨‍🎓 Author
+**Om Pandey**  
+Computer Science Student  
 Lovely Professional University, Punjab
+
 
 
 
