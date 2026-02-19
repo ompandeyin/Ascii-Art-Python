@@ -1,5 +1,5 @@
 # ASCII Art Generator (Pure Python)
-
+ 
 This project generates ASCII art using **pure Python logic** without using any external libraries.
 
 ## 📌 Project Description
