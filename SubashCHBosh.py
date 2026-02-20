@@ -1,4 +1,4 @@
-def generate_ascii_art():
+def generate_ascii_art():  
     height = 94
     width = 121
 
